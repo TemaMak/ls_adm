@@ -1,0 +1,1 @@
+<li><a href="{$aRouter['adm']}admin">{$aLang.plugin.adm.adm_admin_header}</a></li>

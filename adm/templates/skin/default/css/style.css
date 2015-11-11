@@ -1,0 +1,40 @@
+.adm_history { 
+	background: url(../images/no_adm_profile.png) no-repeat 5px 10px transparent;
+	height: 50px;
+	/* display: inline-block; */ 
+	padding-left: 60px;
+	padding-top: 25px;
+	padding-right: 15px;
+	
+	border: 1px solid #ff0033;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 20px;
+}
+
+.adm_profile_info { 
+	background: url(../images/no_adm_profile.png) no-repeat 5px 10px transparent;
+	height: 50px;
+	display: inline-block; 
+	padding-left: 60px;
+	padding-top: 25px;
+	padding-right: 15px;
+	
+	border: 1px solid #ff0033;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 20px;
+}
+
+.adm_button{
+	background: -moz-linear-gradient(center top , #ff0033 0%, #cd2b4c 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+	border: 1px solid #7a0920 !important;
+	
+	 margin-bottom: 10px;
+}
+
+.good_history{
+	color: green;
+}
+
+.bad_history{
+	color: red;
+}

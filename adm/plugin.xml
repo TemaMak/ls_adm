@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">ADM</lang>
+        <lang name="russian">Анонимные Деды Морозы</lang>
+    </name>
+    <author>
+        <lang name="default">author</lang>
+        <lang name="russian">Артем tema_mak Маковецкий</lang>
+    </author>
+    <homepage>http://livestreet.ru</homepage>
+    <version>0.0.1</version>
+    <requires>
+        <livestreet>1.0.1</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">Description of plugin ADM</lang>
+        <lang name="russian">Сервис Анонимных Дедов Морозов</lang>
+    </description>
+</plugin>
